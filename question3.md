@@ -2,7 +2,7 @@ The University is experimenting with different parking lot layouts. Their latest
 
 Given these constraints, it can be seen that a 7 block parking lot can have 17 different car configurations, depicted below:
 
-<div align="center">![](https://i.imgur.com/wkaeTIu.png)</div>
+![](https://i.imgur.com/wkaeTIu.png)
 
 _* Note that the maximum length of a car is unbounded, and there can be a combination of different length cars per lot._
 
