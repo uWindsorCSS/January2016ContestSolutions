@@ -1,3 +1,5 @@
+# Cost Of Spam
+
 In order to limit the number of emails Margaret sends out, the CSS has passed a bill which imposes a per-key-pressed cost on sending out mass emails.  The rate for sending out a mass email is 1 cent per key pressed while writing the body of the email.  Margaret sends out her mass emails from a Nokia flip phone with the following keypad:
 
 <br /><br />

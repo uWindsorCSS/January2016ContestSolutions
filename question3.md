@@ -1,3 +1,5 @@
+# Parking Problems
+
 The University is experimenting with different parking lot layouts. Their latest idea is to create a single parking lot which consists of a single row of end-to-end spaces (better starting practising your parallel parking skills!). The parking lot will be divided into uniformly sized sections known as **blocks**. After some careful observation, it was noted that the smallest car at the University will require 3 blocks, and in order to reduce the number of fender benders at **least** one empty block must be present between any two cars.
 
 Given these constraints, it can be seen that a 7 block parking lot can have 17 different car configurations, depicted below:

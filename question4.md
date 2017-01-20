@@ -1,3 +1,5 @@
+# Tree Age
+
 ![](http://scienceline.org/wp-content/uploads/2007/03/fir.jpg)
 
 It is well known that the age of a tree can be estimated by some function of the number of rings found within the trunk. **Perfetto Trees** are particularly easy to date, as their age is usually equal to the number of rings. Given a top-down view of a cross section of a Perfetto Tree trunk, determine the age of the tree.

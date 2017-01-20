@@ -1,3 +1,5 @@
+# First Repeating Character
+
 Given a string, determine the first character which appears more than once. You may assume that such a character exists.
 
 ### Input Format
