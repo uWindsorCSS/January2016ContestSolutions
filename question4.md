@@ -17,7 +17,8 @@ Note that rings are defined as connected sequences of `x`'s (connected meaning a
 
 ### Sample Input
 
-<pre>20
+<pre>
+20
 ....................
 ....xxxxx...........
 ....x...x...........
@@ -44,5 +45,6 @@ Note that rings are defined as connected sequences of `x`'s (connected meaning a
 
 ### Sample Output
 
-<pre>3
+<pre>
+3
 </pre>
