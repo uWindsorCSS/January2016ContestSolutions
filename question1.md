@@ -8,9 +8,6 @@ Given a string, determine the first character which appears more than once. You 
 
 *   The first repeating character of `s`
 
-<div class="row">
-
-<div class="col-md-6">
 
 ### Sample Input
 
@@ -20,9 +17,6 @@ Given a string, determine the first character which appears more than once. You 
 
 <pre>whatsuhdude</pre>
 
-</div>
-
-<div class="col-md-6">
 
 ### Sample Output
 
@@ -31,7 +25,3 @@ Given a string, determine the first character which appears more than once. You 
 <pre>u</pre>
 
 <pre>h</pre>
-
-</div>
-
-</div>
